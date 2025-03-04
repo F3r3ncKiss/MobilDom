@@ -1,0 +1,2 @@
+# MobilDom
+Vizsgajelleg
